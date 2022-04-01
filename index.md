@@ -2,15 +2,19 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+# Hi, my name is Francisco :)
 
-[Link to another page](./another-page.html).
+I’m passionate about creating opportunities for **equitable and high-quality education**. For the past 8 years I've been helping institutions create skill-based curricula and delivering them. I am currently studying how to design high school systems and curricula that support **all students** to develop skills for life and work. I am also very interested in using **Artificial Intelligence** to solve education most pressing challenges and engaged with **Machine Learning** and **Natural Language Understanding** research.
 
-There should be whitespace between paragraphs.
+Get in touch : franciscomelloc [at] stanford.edu
+
+[My full resume](./another-page.html).
+
+`There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
-# Header 1
+
 
 This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
 
@@ -36,13 +40,13 @@ GitHubPages::Dependencies.gems.each do |gem, version|
   s.add_dependency(gem, "= #{version}")
 end
 ```
-
+````
 #### Header 4
 
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
+`*   This is an unordered list following a header.`
+`*   This is an unordered list following a header.`
+`*   This is an unordered list following a header.
+`
 ##### Header 5
 
 1.  This is an ordered list following a header.
@@ -121,3 +125,4 @@ Long, single-line code blocks should not wrap. They should horizontally scroll i
 ```
 The final element.
 ```
+`
